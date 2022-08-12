@@ -1,11 +1,9 @@
-# <img align="left" alt="Analytix" width="40px" src="https://analytix.tk/uploads/brand/ys17CmIE61mY5SrzlKBu2UbanlIvzwW2l7qmb9PX.png" draggable="false" /> Analytix ([Click to try 🚀](https://analytix.tk/))
+# <img align="left" alt="Tungolino" width="100px" src="https://tungolino.tk/img/2022-05-16/image_1652709469083907900_1.png" draggable="false" /> Tungolino ([Click to try 🚀](https://tungolino.tk/))
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Tungolino ✨ - The social network for fans 🧑‍🤝‍🧑
 
-
-
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog 🧑](https://github.com/linkspreed/Tungolino/blob/main/changelog.md)** **Check out the full Tungolino changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Tungolino/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Tungolino besides development**
 
 
 <div align="center">
