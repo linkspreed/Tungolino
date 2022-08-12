@@ -85,17 +85,26 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ## ðŸ“· UI
 
 
-### Privacy focused web analytics
+### Welcome
 <img align="center" alt="Tungolino" width="3000px" src="https://github.com/linkspreed/Tungolino/blob/main/screenshots/1.PNG" draggable="false" />
 
-### Analytics
+### Our features
 <img align="center" alt="Tungolino" width="3000px" src="https://github.com/linkspreed/Tungolino/blob/main/screenshots/2.PNG" draggable="false" />
 
-### Register now
+### Become a Creator
 <img align="center" alt="Tungolino" width="3000px" src="https://github.com/linkspreed/Tungolino/blob/main/screenshots/3.PNG" draggable="false" />
 
-### Dashboard
+### Creators Earnings Simulator
 <img align="center" alt="Tungolino" width="3000px" src="https://github.com/linkspreed/Tungolino/blob/main/screenshots/4.PNG" draggable="false" />
 
-### Add a new website
+### Register now
 <img align="center" alt="Tungolino" width="3000px" src="https://github.com/linkspreed/Tungolino/blob/main/screenshots/5.PNG" draggable="false" />
+
+### Timeline
+<img align="center" alt="Tungolino" width="3000px" src="https://github.com/linkspreed/Tungolino/blob/main/screenshots/6.PNG" draggable="false" />
+
+### Settings
+<img align="center" alt="Tungolino" width="3000px" src="https://github.com/linkspreed/Tungolino/blob/main/screenshots/7.PNG" draggable="false" />
+
+### Profile
+<img align="center" alt="Tungolino" width="3000px" src="https://github.com/linkspreed/Tungolino/blob/main/screenshots/8.PNG" draggable="false" />
