@@ -13,38 +13,57 @@ Tungolino ✨ - The social network for fans 🧑‍🤝‍🧑
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
-
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
-
-**EXPORT** – Export your statistics & analytics reports in CSV format.
-
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
+ - Live Streaming
+ - Video Chat
+ - Implemented GDPR
+ - Banner Cookies Policy
+ - Notifications Real-time
+ - User can get Notifications comment, follow, subscribe, post buy, like, comment like
+ - Account verification by uploading ID or Passport
+ - Edit your profile
+ - Verified users will display a badge
+ - Create unlimited posts for Free, Subscribers and Premium
+ - Point(credit) system.
+ - Creators can share posts, charging fees. People can see the post in return for the points the creator has set for the post.
+ - Members who want to pay to view the content can add points to the wallet.
+ - Users can manage posts
+ - Creators can manage their Dashboard(Normal users don’t have Dashboar)
+ - SEO on Pages
+ - Upload Avatar
+ - Upload Cover
+ - Search creators by Name/Username
+ - Top 5 creators of last week!
+ - Explore Creators
+ - Social Login with Google
+ - Email Verification
+ - Upload Photos and Images
+ - The system blur the photos and videos in premium and subscriber posts. This way, the member cannot see the real image of that post until they buy the post or subscribe to the profile.
+ - User can report post
+ - User can block post
+ - Enable/Disable Message
+ - Current point from dropdown menu
+ - Total earnings from Creator Dashboard
+ - Secure password hashing
+ - SMTP Support
+ - Easy translation
+ - Multilanguage
+ - Progress bar on Upload
+ - Message system users can send photos, videos, stickers and gifs
+ - Infinite scroll on Message system
+ - Infinite scroll on User Wall and Profile Wall
+ - History of payments made and received
+ - Email notifications
+ - Contact us page
+ - Change Password
+ - Saved Posts
+ - Stickers System in Comment and Message
+ - Gifs system in Comment and Message
+ - Emoticon system in Commend and Message
+ - Sponsored Advertisements
+ - Subscribers
+ - Subscriptions
+ - Payments
+ - Light / Dark Mode
 
 **AND SO MUCH MORE ...**
 
