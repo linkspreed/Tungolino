@@ -1,3 +1,6 @@
+# 13.08.2022
+  - We continue to work on the new update for Tungolino.
+
 # 12.08.2022
   - We are working on a new version.
 
