@@ -1,3 +1,6 @@
+# 14.08.2022
+  - We still want to wait for a response from our hosting provider before releasing the new versions of Tungolino.
+
 # 13.08.2022
   - We continue to work on the new update for Tungolino.
 
