@@ -1,4 +1,7 @@
 # 15.08.2022
+  - We are now starting to update Tungolino step by step to the new version we have developed.🥳
+
+# 15.08.2022
   - We are ready to release updates for **Tungolino** soon.
 
 # 14.08.2022
