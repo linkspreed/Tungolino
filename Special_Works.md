@@ -1,4 +1,8 @@
 # 15.08.2022
+  - Tungolino has been safely and successfully updated to version 3.6.8. 🚀
+  - The complete changelog is available on Github. 😍
+
+# 15.08.2022
   - We are now starting to update Tungolino step by step to the new version we have developed.🥳
 
 # 15.08.2022
