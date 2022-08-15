@@ -1,180 +1,406 @@
-# 3.3.0 — 18 July 2022
- - Added the ability to change the default Do Not Track option on tracking codes
- - Added the ability to change the Email Reports to Monthly or Weekly
- - Improved the cron jobs system
- - Fixed search not working on User Dashboard and the Websites API endpoint
- - Other minor improvements
+# 15 August 2022
 
-# 3.2.0 — 7 July 2022
- - Improved adding new Website process: URL protocol is no longer required
- - Improved the API Documentation
- - Other minor improvements
+[FIXED] - Reported php bugs
+[FIXED] - Reported css bugs
+[FIXED] - Reported javasript bugs
+[IMPROVED] The system has been sped up.
 
-# 3.1.0 — 26 June 2022
- - Added new payment gateway: Paystack (checkout using a credit card)
- - Added new payment gateway: Razorpay (checkout using a credit card)
- - Added new payment gateway: Crypto.com (checkout using a cryptocurrency)
- - Added Two-factor Authentication system
- - Added Webhooks on User Store, Update, and Delete events
- - Added both light and dark mode logos
- - Added the ability to create coupons with unlimited quantity number
- - Improved the dark mode
- - Updated all the dependencies to their latest versions
- - Fixed an issue that would immediately remove the User's plan features after cancellation
- - Fixed an issue that was preventing tracking Events with values between 0 and 1
- - Other minor improvements
+# 15 August 2022
 
-# 3.0.0 — 18 April 2022
-- Added new filters on all table lists (column order, order direction, per page limits)
-- Added the ability to set the Plan's position on the Pricing listings
-- Added the ability to set custom CSS code based on the color scheme
-- Added the ability to block adding a Website containing certain keywords using the Bad Words filter
-- Improved the codebase (code refactoring)
-- Improved the CSV export functionality (it now includes the URL where the report was generated from)
-- Improved the table lists filters (improved flexibility)
-- Improved the API Documentation
-- Improved the translation strings
-- Improved the SEO capabilities side-wide by adding in-file head tags for all public pages
-- Improved the iconography
-- Fixed not being able to edit a User that was under a recurring subscription
-- Fixed user's content being deleted when the user would get suspended
-- Fixed the API Documentation URL path not pointing to the correct location
-- Fixed the Plans not ending when being cancelled on Stripe and PayPal
-- Other minor improvements
+[FIXED] - Ponint earn issue
+[FIXED] - Languge issue
+[IMPROVED] - The system has been sped up.
+[ADDED] - Maximum daily point earning admin panel
 
-# 2.9.0 — 12 December 2021
-- Added the ability to exclude entire IP classes using CIDR notation
-- Added contextual menus on all table lists
-- Updated all the dependencies to their latest versions
-- Fixed an issue with specific currencies that would prevent the Checkout from working
-- Fixed several missing language strings
-- Other minor improvements
+# 15 August 2022
 
-# 2.8.0 — 27 September 2021
-- Added translation ability for the Page title and description
-- Fixed an issue preventing redeeming coupons
-- Fixed an issue preventing changing the user's plan when no ending date was defined
-- Other minor improvements
+[FIXED] - Reported bugs
+[FIXED] - Suggested Product size issue
+[FIXED] - Suggested Creators size issue
+[FIXED] - Product Sold number issue
+[FIXED] - Product Purchase number issue
+[FIXED] - Digital Ocean issue
+[FIXED] - CronJob repeating issue
+[FIXED] - Javascript reported javascript
+[FIXED] - PWA issue
+[FIXED] - Cancel Subscription issue
+[FIXED] - Mobile resize product page issue
+[FIXED] - Night Mode issues
+[IMPROVED] The system has been sped up.
+[IMPROVED] JAVASCRIPT Codes
+[IMPROVED] PHP functions
+[ADDED] Chat Video Call feature
+[ADDED] Free Video Call Feature
+[ADDED] Paid Video Call Feature
+[ADDED] Creator can set video call price.
+[ADDED] PopUp Chat Video Caller notification
+[ADDED] PopUp Chat video Calling notification
+[ADDED] Chat Video Call SQL tables
+[ADDED] Chat Video Call functions
+[ADDED] MUTE / UNMUTE chat video feature
+[ADDED] Close / Open camera in chat video feature
+[ADDED] Paid Video Call Feature
 
-# 2.7.0 — 13 September 2021
-- Added email notification on successful Stripe, PayPal and Coinbase payments
-- Improved the UI & UX of the Log-in, Register, Password reset, Contact and Page pages
-- Fixed an issue that would display all tax rates on Checkout before the user would select his country
-- Fixed an issue causing Checkout not to work when no Coupon was provided
-- Fixed an issue causing Checkout interval switcher not to work
-- Fixed the tracking ability not resetting when redeeming a plan
-- Other minor improvements
+# 15 August 2022
 
-# 2.6.0 — 5 September 2021
-- Fixed the Pricing not showing up on the Home page unless Stripe was enabled
-- Fixed not being able to create new Plans
-- Fixed the Page links from the Footer not showing their name
-- Other minor improvements
+[FIXED] - Reported Free Live Streaming Black screen
+[FIXED] - Reported Bugs
+[ADDED] Latest Products from main page
+[ADDED] Re-Designed Right sidebar boxes
+[ADDED] Turkish Language tr.php in langs folder
 
-# 2.5.0 — 3 September 2021
-- Added new payment gateway: PayPal (checkout using a PayPal account)
-- Added new payment gateway: Coinbase (checkout using a cryptocurrency)
-- Added new payment gateway: Bank (checkout using a bank transfer)
-- Improved the codebase (name convention refactoring)
-- Improved ARIA controls
-- Improved the Invoices (they are now immutable)
-- Improved the Installation process
-- Fixed the new Website form not including the Exclude URL query parameters form
-- Fixed the Stats API endpoint working with the website's URL rather than ID
-- Fixed an issue with passwords being trimmed when changed
-- Fixed several missing language strings
-- Other minor improvements
+# 11 May 2022 [URGENT UPDATE]
 
-# 2.4.0 — 26 March 2021
-- Added the ability to exclude URL query parameters from tracked pages
-- Improved the database structure (IDs are now unsigned)
-- Fixed several missing language strings
-- Other minor improvements
+[FIXED] - Reported Bugs
+[ADDED] - New Call icon for live streaming
 
-# 2.3.0 — 20 March 2021
-- Fixed the Stats API endpoint not returning results
-- Fixed the Stats API endpoint returning a success response even on missing resources
-- Fixed the tracking ability not resetting when manually assigning a plan
-- Other minor improvements
+# 10 May 2022 [URGENT UPDATE]
 
-# 2.2.0 — 25 February 2021
-- Added Cronjob for automatic cache deletion
-- Fixed the pricing plans not showing Unlimited when pageviews set to -1
-- Fixed Sort by on Stats pages not working on paginated tables
-- Other minor improvements
+[FIXED] - Reported Bugs
 
-# 2.1.0 — 29 January 2021
-- Added the ability to toggle password visibility for Websites
-- Improved the password encryption method for Websites
-- Other minor improvements
+# 09 May 2022
 
-# 2.0.0 — 25 January 2021
-- Added PostCSS support
-- Added context menu on Stats pages
-- Added Delete option in the website's context menu on Dashboard
-- Improved the CSS filesize (removed all unused CSS rules)
-- Improved the API (added status code for the websites listing)
-- Updated all the dependencies to their latest versions
-- Fixed unknown countries not displaying an icon
-- Other minor improvements
+[FIXED] - Fixed Storie Black Screen Issue
+[FIXED] - Fixed Reported S3 Issue
+[FIXED] - Fixed Reported DigitalOcean Issue
+[FIXED] - Fixed Reported Chat Video Play Issue
+[FIXED] - Fixed Reported CSS issues
+[FIXED] - Fixed Reported Mobile Screen issues
+[FIXED] - Fixed Reported Offline Search issue
+[FIXED] - Fixed Reported Tip calculate issue
+[FIXED] - Fixed Reported Subscription calculate issue
+[FIXED] - Fixed Reported CoinPayment accept payment issue
+[ADDED] - Post Categories (All posts, Videos, Audios, Photos and Products)
+[ADDED] - 12 Social Website Profile Link
+[ADDED] - Send Tip Button on Users Profile
 
-# 1.9.0 — 14 January 2021
-- Updated all the dependencies to their latest versions
-- Fixed the Developers link missing from the footer
-- Other minor improvements
+# 26 April 2022 [URGENT UPDATE]
 
-# 1.8.0 — 5 January 2021
-- Added the ability to hide the Default (free) plan
-- Improved the tooltips on charts (added dark mode support)
-- Other minor improvements
+[FIXED] - SQL file issue
 
-# 1.7.0 — 2 January 2021
-- Fixed the monthly email reports not including the stats count
-- Fixed sending email reports when no websites had email notifications enabled
-- Other minor improvements
+# 25 April 2022
 
-# 1.6.0 — 1 January 2021
-- Improved the Export functionality (added additional information to the file and filename)
-- Updated all the dependencies to their latest versions
-- Other minor improvements
+[ADDED] - Story System
+[ADDED] - Image Story System
+[ADDED] - Text Story System
+[ADDED] - 22 Text Story Background image 
+[ADDED] - Add / Delete New Text Story background image
+[ADDED] - Enable / Disable Text Story Background
+[ADDED] - Audio(mp3) post feature
+[ADDED] - Edit/Delete Story
+[ADDED] - How many user see my story
+[ADDED] - Shop system
+[ADDED] - Create form Scratch product
+[ADDED] - Create Book a Zoom product
+[ADDED] - Create Digital Download product
+[ADDED] - Create Live Event Ticket product 
+[ADDED] - Create Art Commission product
+[ADDED] - Create a Join Instagram Close Friends product
+[ADDED] - How many Scratch Products have users created
+[ADDED] - How many Book a Zoom Products have users created
+[ADDED] - How many Digital Download Products have users created
+[ADDED] - How many Live Event ticket Products have users created
+[ADDED] - How many Art Commissions Products have users created
+[ADDED] - How many Join Instagram Close Friends Products have users created
+[ADDED] - Search Product From Admin area
+[ADDED] - My Product page
+[ADDED] - Purchased Product page
+[ADDED] - Sales product Page
+[ADDED] - My Stories Page
+[ADDED] - Product Earning in Chart
+[ADDED] - Tips commission
+[ADDED] - How many user see product
+[ADDED] - How many times the product has been sold
+[ADDED] - Who can share Story
+[ADDED] - Who can create a product
+[ADDED] - Enable / Disable product features
+[ADDED] - Enable / Disable Story text and image share feature
+[ADDED] - Autocomplete for Mention
+[ADDED] - Suggested product
+[ADDED] - Search user on Admin Panel
+[ADDED] - How many male users registered
+[ADDED] - How many female users registered
+[ADDED] - How many Active user
+[ADDED] - How many user inactive
+[ADDED] - 19 New SVG Icon
+[ADDED] - 152 New Words
+[ADDED] - Announcement System
+[ADDED] - Add / Edit / Delete Announcement
+[ADDED] - Admin can Enable/Disable announcement Status
+[ADDED] - Admin can change announcement type. Creators can see announcement or Everyone can see announcement
+[ADDED] - How many user saw announcement
+[FIXED] - Fixed the sum of all money gains.
+[FIXED] - Reported Bugs
 
-# 1.5.0 — 29 December 2020
-- Added Total stats for tables on each stats category
-- Added new social network source (Pinterest)
-- Added the ability to search trough stats resources via API
-- Added the ability to sort the stats resources via API
-- Added the ability to set custom pagination results value via API
-- Improved the JS tracking code (reduced its size even further)
-- Improved the SEO for the Home page
-- Fixed an issue that was reporting pageviews as visitors in a specific scenario
-- Fixed several timestamps showing wrong minutes value
-- Other minor improvements
+# 16 March 2022
 
-# 1.4.0 — 16 December 2020
-- Added decimal support for Events that have a unit value
-- Added support for both www and non-www tracking with a single domain entry
-- Fixed the live chart showing NaN when the value of visitors was 0
-- Other minor improvements
+[ADDED] - Mute Audio / Unmute Audio feature on Live Streaming
+[ADDED] - Mute Video/ Unmute Video feature on Live Streaming
+[UPDATED] - Agora SDK
+[ADDED] - Mention system
+[ADDED] - Mention feature on notification system
+[ADDED] - A variable color combination has been added to the label system for aesthetic appearance.
+[ADDED] - HashTag search system
+[ADDED] - Affilate System
+[ADDED] - Affilate Management in admin panel
+[ADDED] - Earn Point System
+[ADDED] - User can earn point when he/she Register,Create a post, follow someone, like post, comment post. 
+[ADDED] - The administrator can determine how many points people can earn from which feature.
+[ADDED] - New words in eng.php, fr.php, de.php and es.php
+[ADDED] - Uploading bar when user upload
+[ADDED] - Fake user generator
+[ADDED] - Fake user type in admin panel
+[ADDED] - Show/Hide user fullname (Admin panel)
+[ADDED] - Profile Link Watermark (When user share his/her image or video the system adding his/her profile link on the image)
+[ADDED] - Enable/Disable Image Watermark Status
+[ADDED] - Enable/Disable Link Watermark Status
+[ADDED] - Auto Approve post feature
+[ADDED] - Enable/Disable Weekly Subscription from admin panel
+[ADDED] - Enable/Disable Monthly Subscription from admin panel
+[ADDED] - Enable/Disable Yearly Subscription from admin panel
+[FIXED] - Add/Edit Sticker issue
+[FIXED] - Reported Subscription issues
+[FIXED] - Open Graph Meta Tags 
+[FIXED] - Live Streaming issues
+[FIXED] - Watermark issue
+[FIXED] - Image Crop View issue
+[FIXED] - Special Character issue
+[FIXED] - Chat issues
+[FIXED] - Reported Admin Panel issues
+[FIXED] - Image upload issue
+[FIXED] - Premium content Earning issue
+[FIXED] - Subscription Content Earning issue
+[FIXED] - Creator Dashboard Char issue
+[FIXED] - Withdrawal Details issue (in admin)
 
-# 1.3.0 — 15 December 2020
-- Improved email template (added support for wide aspect logos)
-- Improved the checkout process (you can now cancel the coupon adding process)
-- Fixed an issue that was preventing the Check cronjob from executing
-- Fixed the tracking ability not resetting when subscribing to a plan
-- Other minor improvements
+# 28 January 2022 [URGENT UPDATE]
 
-# 1.2.0 — 12 December 2020
-- Fixed an issue preventing the deletion of websites
-- Fixed an issue that removed the js source path from the tracking code
-- Other minor improvements
+[FIXED] - Image display issue
 
-# 1.1.0 — 10 December 2020
-- Added support for CDN hosted tracking code
-- Added automatic language switching when the language is availabl
-- Added modal to the Export functionality
-- Improved RTL support
-- Fixed stats data not being removed when a user is being deleted
-- Fixed stats data not being removed when a user is being deleted
+# 27 January 2022 [URGENT UPDATE] 
 
-# 1.0.0 — 1 December 2020
-- Initial release
+Added uploads folder
+Added aut folder
+[FIXED] - Pixelixel issue
+[FIXED] - Live Streaming pint purchase button issue
+[FIXED] - Comment delete issue
+
+# 24 January 2022
+
+[FIXED] - Fee setting issue
+[FIXED] - Verification profile issue
+[FIXED] - 10+ reported bugs
+[ADDED] - QR code system. Anyone can share their profile link with people in the form of QR codes.
+
+# 18 January 2022
+
+[FIXED] - Reported Bugs
+[ADDED] - cURL check (some features do not work because cURL is not active on the servers. Therefore, please enable cURL.)
+
+# 11 January 2022
+
+[FIXED] - Reported verification email issue
+[FIXED] - SQL zip file issue for UPDATE
+
+# 07 January 2022
+
+[FIXED] - Reported PHP Bugs  
+
+# 06 January 2022
+
+[FIXED] - Reported bugs
+[ADDED] - OneSignal support new message notification
+
+# 05 January 2022
+
+[UPDATED] - Documentation file
+[FIXED] - Reported php Bugs
+[FIXED] - Image and video share bug
+[UPDATED] - Documentation file
+[FIXED] - Reported CSS Bugs
+[ADDED] - TikTok style Gift system
+[ADDED] - RealTime chat system in live Streaming
+[ADDED] - Re-Designed Live Straming page
+[IMPOROVED] - HashTag system
+[IMPROVED] - Speed
+[ADDED] - New words
+[ADDED] - OneSignal RealTime browser notification for Live Streaming
+
+# 23 November 2021
+
+[FIXED] - Watermark size issue
+[FIXED] - Reported php Bugs
+[FIXED] - Reported CSS Bugs
+[FIXED] - Weekly best creators list follow/subscription button
+[FIXED] - The problem of automatic thank you message update to the people who sent the tip has been resolved.
+[FIXED] - Fixed some reported typos.
+[ADDED] - Added custom watermark insertion area.
+[ADDED] - reCaptcha from contact us page.
+[ADDED] - Enable/Disable reCaptcha feature from admin panel
+[ADDED] - CoinPayment payment gateway
+[ADDED] - Edit/Enable/Disable CoinPayment API keys
+[ADDED] - 15+ CrytoCurrencies
+[ADDED] - Enable/Disable CoinPayment
+[UPDATED] - Updated Documentation
+
+# 30 October 2021
+
+Urgent update made. Reported issues have been fixed.
+
+# 26 October 2021
+
+Urgent update made. Reported issues have been fixed.
+
+# 25 October 2021
+
+[FIXED] - Image Upload issue
+[FIXED] - Video Upload issue
+[IMPROVED] - phpMailer
+[ADDED] - Enable/Disable Free Live Streaming
+[ADDED] - Enable/Disable Paid Live Streaming
+
+# 23 October 2021
+
+[FIXED] - When user delete the post if s3 was enabled the post can not be delete from s3.
+[FIXED] - Big icon issue on firefox from admin panel.
+[IMPROVED] - phpMailer
+[FIXED] - Some reported php bugs
+[ADDED] - Watermark can be added when user upload an image. The watermark added when the image is uploaded is the site's own logo.
+[ADDED] - Watermark can be added when user upload a Video. The watermark added to the video is the user's own profile link.
+[ADDED] - Tips system
+[ADDED] - Added a thank you message to the person who tipped. The user can write the thank you message in his own profile settings as he wishes.
+[ADDED] - When a tip is made, a coin sounds.
+[ADDED] - New PhpMailer system
+[ADDED] - Default website email in admin panel email settings.
+[ADDED] - SVG icon for tips system.
+[ADDED] - Added some new words in eng.php
+[ADDED] - New font for watermark
+[ADDED] - Delete files from DigitalOcean and Amazon S3
+
+# 04 October 2021
+
+[ADDED] Point System for subscriptions (Now user can subscribe with their points)
+[ADDED] Minimum Point Fee Weekly (For subscription) / Admin panel
+[ADDED] Minimum Point Fee Monthly (For subscription) / Admin panel
+[ADDED] Minimum Point Fee Yearly (For subscription) / Admin panel
+[ADDED] The system checks the adequacy of the user's balance (points). If it doesn't have enough points, it will direct you to the payment page for point loading.
+[ADDED] A popup warning has been added to the user during subscription (for those who use the subscription system with Points)
+[ADDED] New CSS codes in style.css and night_style.css 
+[ADDED] A control mechanism has been added to the fee requested when creating premium posts. If there is an invalid character input, the post will be stopped with a warning.
+[FIXED] DigitalOcean issues
+[FIXED] Pixel issue in posts
+[FIXED] Cropped photo show issue
+[FIXED] Friends & Followers list issue
+[IMPROVED] Functions have been improved
+[ADDED] New langs. Spanish and French. I added it thanks to my customers who sent me gifts because I don't know these languages. Some words added for Version 2.6 are still in English. If they send me the translated version of the words, I will include it in the update immediately.
+
+# 23 September 2021
+
+[FIXED] Live Streaming Mobile Device issue (Your browser needs to be close to the latest version.)
+[FIXED] Digital Ocean video tumbnail issue
+[ADDED] New word in langs->eng.php  
+
+# 22 September 2021
+
+[FIXED] jpg upload issue (But if your jpg images are still issue please check https://www.litespeedtech.com/support/forum/threads/jpg-images-not-working.4631/ )
+
+# 21 September 2021
+
+[FIXED] Reported css bugs
+[FIXED] Live Streaming video bug
+[FIXED] Purchasing content number bug
+[FIXED] New message click bug
+[ADDED] Reported comment count
+[ADDED] Reported Post count
+[ADDED] Enable/Disable country block feature
+[ADDED] Purchased point History from Users dashboard
+[ADDED] Scroll to show suggested users between posts. (Works with swipe)
+[ADDED] New words
+[ADDED] Live Streaming widget on homepage
+[ADDED] List of all live streams (paid and free)
+
+# 06 September 2021
+
+[FIXED] Reported Bugs
+[ADDED] Followers page on user Dashboard
+[ADDED] Following users page on user Dashboard
+[ADDED] Block Country Feature
+[ADDED] Admin can enable disable post feature.  If the admin allows only creators to post, non-creators will not be able to upload any videos or photos.
+[ADDED] File can be deleted via DigitalOcean storage.
+[ADDED] View by subscribers feature in post settings is now viewable only to creators. 
+[FIXED] Issue with date of birth resolved. 
+[FIXED] The character issue in the sign up with Google option has been resolved.
+
+# 23 June 2021
+
+[FIXED] Reported Bugs
+
+# 22 June 2021
+
+- [FIXED] Creators Page Bug
+- [FIXED] Cover and Avatar Upload preview Bug
+- [FIXED] Content Share Bug
+- [FIXED] Profile Edit Bug
+- [FIXED] Stripe Bug
+- [ADDED] The administrator can now specify which usernames users cannot receive during registration.
+- [ADDED] Added thumbnail feature for servers without ffmpeg installed. 
+- [FIXED] CSS Bug
+- [UPDATED] Documentation Page
+
+# 26 May 2021
+
+- [FIXED] Special character issue
+- [FIXED] Reported CSS bugs
+- [FIXED] Reported PHP bugs
+- [FIXED] Settings Page bugs
+- [FIXED] UnSubscribe bug
+- [ADDED] Switch Device Camera for Agora Live Streaming
+- [ADDED] Admin can see more details about withdrawal
+- [ADDED] DigitalOcean Storage Feature
+- [FIXED] UnLike comment bug
+
+# 28 April 2021
+
+- [FIXED] Hashtag issue
+- [FIXED] Image Load issue
+- [FIXED] Url issue
+- [FIXED] s3 issue
+- [FIXED] ffmpeg issue
+- [FIXED] Reset password popup css issue 
+- [ADDED] Landing Page
+- [ADDED] Added auto embed link for : YouTube, Vimeo, SoundCloud, DailyMotion, MetaCafe, VideoJug, Blip, Screenr, SlideShare, flickr, funnyordie and devianart
+- [ADDED] Admin can update landing page images
+- [ADDED] Admin can manage landing page Q&As. (Add/Edit/Delete)
+- [ADDED] Admin can switch welcome page. Default - Landing
+- [ADDED] compress image
+- [ADDED] New Words
+
+# 10 April 2021 (Quick update)
+- [FIXED] Point Purchase page issue
+
+# 10 April 2021 
+- [FIXED] Profile Edit issue
+- [FIXED] Crop cover and Avatar issue
+- [FIXED] Message button issue
+- [FIXED] Amazon S3 issue
+- [FIXED] Logo, favicon and ads image upload issue
+- [FIXED] Twitter login issue
+- [FIXED] Register page CSS bug
+- [FIXED] Hashtag issue
+- [FIXED] Second click close header menu issue
+- [FIXED] Scroll slow issue on mobile
+- [FIXED] Drop down emoji, sticker and gifs slow fast
+- [FIXED] Adding new language issue
+- [FIXED] Page edit issue
+- [FIXED] Create page issue
+- [ADDED] Agora.io Live Streaming feature
+- [ADDED] Creators can create a paid live streaming
+- [ADDED] Normal users can create a time limit live streaming
+- [ADDED] Number of people watching instant live broadcast(RealTime)
+- [ADDED] Like live broadcast (RealTime)
+- [ADDED] Paid Live Streamings list page(Live broadcasts that have expired are not shown.)
+- [ADDED] Free Live Streamings list page(Live broadcasts that have expired are not shown.)
+- [ADDED] Giphy API
+
+# 01 April 2021 
+dizzy was born
