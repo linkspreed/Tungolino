@@ -1,3 +1,46 @@
+# 24 November
+
+[FIXED] - Reported CSS bugs
+[FIXED] - Sending paid messages bug
+[IMPROVED]The system has been sped up.
+[ADDED] ToolTip has been added to some of the chat buttons.
+[ADDED] The website's social network links have been added to the top left drop-down menu.
+[ADDED] ScrollBar is now displayed on desktop computers.
+[ADDED] ScrollBar is hidden for Mobile devices.
+[ADDED] Images can now be attached to paid messages.
+
+# 23 November 
+
+[FIXED] - Cover and Avatar image position issue
+[FIXED] - Incorrect counter, in premium purchase popup.
+[FIXED] - Reported subscription bugs
+[FIXED] - Reported S3 issue
+[FIXED] - Stripe issue
+[FIXED] - Reported Stripe Issue
+[FIXED] - Reported S3 issue
+[FIXED] - Reported bugs for the Market page.
+[FIXED] - Create withdrawal issue
+[FIXED] - Checking withdrawal issue in admin panel
+[IMPROVED] The system has been sped up.
+[ADDED] Send a paid private message.
+[ADDED] Send money to the person using the message field.
+[ADDED] Ads are now displayed on mobile.
+[ADDED] Purchased premium posts.
+[ADDED] Subscription expiration date.
+[ADDED] Automatic approval of premium posts.
+[ADDED] Send a notification to the contact when automatic premium posts are approved.
+[ADDED] Notifications are sent when someone purchases a premium post.
+[ADDED] Who can send message ? Subscribers/Everyone
+[ADDED] Who can send a video call request ? Subscribers/Everone
+[ADDED] Commenter's creator badge.
+[ADDED] The administrator determines who is shown in the search results (Everyone/content creators only)
+[ADDED] Number of message show in admin panel
+[ADDED] Social profiles for website
+[ADDED] Social profiles for website
+[ADDED] New SVG icons.
+[ADDED] Some New CSS codes. (Please check the NEW CSS section below to see the added codes. )
+[ADDED] Some new words. (Please check the NEW WORDS section below to see the added codes. )
+
 # 15 August 2022
 
 [FIXED] - Reported php bugs
