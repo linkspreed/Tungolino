@@ -1,4 +1,9 @@
 ### 25.11.2022 (announcement Tungolino)
+- The launch of version 4.1.1 of **Tungolino** was successful! 🥳
+- The new update is live now :)
+- https://tungolino.tk 🔗
+
+### 25.11.2022 (announcement Tungolino)
 - We are now starting the launch of v4.1.1.
 
 ### 25.11.2022 (announcement Tungolino)
