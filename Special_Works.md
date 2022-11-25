@@ -1,4 +1,7 @@
 ### 25.11.2022 (announcement Tungolino)
+-  **Tungolino** gets a big update today - we are going to launch v4.1.2. 😍
+
+### 25.11.2022 (announcement Tungolino)
 - https://github.com/linkspreed/Tungolino/blob/main/changelog.txt
 - The entire changelog is now available on Github.
 
