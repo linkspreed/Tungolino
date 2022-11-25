@@ -1,3 +1,12 @@
+# 25 November
+
+[FIXED] - The night mode css issue on the chat page. 
+[FIXED] - The issue reported in my payment page. 
+
+# 25 November
+
+[FIXED] - REPORTED BUGS
+
 # 24 November
 
 [FIXED] - Reported CSS bugs
