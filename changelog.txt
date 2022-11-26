@@ -1,3 +1,12 @@
+# 26 November
+
+[FIXED] - Amazon s3 Video play issue
+[FIXED] - Amazon s3 Audio
+[IMPROVED] - improvements in css and php
+[FIXED] - resolved the issue with the money sending section that cannot be disabled
+[IMPROVED] - The system has been sped up.
+[ADDED] - Only creators can see the type and hidden message buttons on the chat page.
+
 # 25 November
 
 [FIXED] - The night mode css issue on the chat page. 
