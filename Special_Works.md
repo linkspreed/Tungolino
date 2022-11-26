@@ -1,4 +1,7 @@
 ### 26.11.2022 (announcement Tungolino)
+- The servers are now ready for the launch of version 4.1.3 for **Tungolino**.
+
+### 26.11.2022 (announcement Tungolino)
 - The code is now ready for the launch of version 4.1.3 for **Tungolino**.
 
 ### 26.11.2022 (announcement Tungolino)
