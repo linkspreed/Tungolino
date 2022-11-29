@@ -1,3 +1,10 @@
+# 29 November
+
+[FIXED] - Google Login issue
+[FIXED] - Twitter Login issue
+[ADDED] - New Profile categories (Please read the README.html file carefully.)
+[ADDED] - New Words in language files.  (Please read the README.html file carefully.)
+
 # 26 November
 
 [FIXED] - Amazon s3 Video play issue
