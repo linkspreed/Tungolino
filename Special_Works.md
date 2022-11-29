@@ -1,4 +1,7 @@
 ### 29.11.2022 (announcement Tungolino)
+-  **Tungolino** gets a big update today - we are going to launch v4.1.4. 😍
+
+### 29.11.2022 (announcement Tungolino)
 - We are working on a small update (v4.1.4) for **Tungolino**.
 
 ### 26.11.2022 (announcement Tungolino)
