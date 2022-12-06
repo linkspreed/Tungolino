@@ -1,3 +1,6 @@
+### 06.12.2022 (announcement Tungolino)
+- In the next weeks, we're going to work on a bigger update for **Tungolino**! :D
+
 ### 29.11.2022 (announcement Tungolino)
 - https://github.com/linkspreed/Tungolino/blob/main/changelog.txt
 - The entire changelog is now available on Github.
