@@ -1,3 +1,9 @@
+# 10 December 
+
+[FIXED] - Reported Bugs
+[ADDED] - Translated some languages
+[ADDED] - FFMPEG warning if ffmpeg not exist.
+
 # 29 November
 
 [FIXED] - Google Login issue
