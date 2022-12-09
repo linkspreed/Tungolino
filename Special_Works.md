@@ -1,3 +1,6 @@
+### 09.12.2022 (announcement Tungolino)
+- Now we're working on **Tungolino** :D
+
 ### 06.12.2022 (announcement Tungolino)
 - In the next weeks, we're going to work on a bigger update for **Tungolino**! :D
 
