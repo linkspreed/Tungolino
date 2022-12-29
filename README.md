@@ -1,4 +1,4 @@
-# <img align="left" alt="Tungolino" width="100px" src="https://tungolino.tk/img/logo/logo.png" draggable="false" /> Tungolino ([Click to try 🚀](https://tungolino.tk/))
+# <img align="left" alt="Tungolino" width="100px" src="https://tungolino.tk/img/logo.png" draggable="false" /> Tungolino ([Click to try 🚀](https://tungolino.tk/))
 
 Tungolino ✨ - The social network for fans 🧑‍🤝‍🧑
 
