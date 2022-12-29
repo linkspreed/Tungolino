@@ -1,4 +1,7 @@
 ### 29.12.2022 (announcement Tungolino)
+- The problem with the **Tungolino** logo has been successfully fixed!
+
+### 29.12.2022 (announcement Tungolino)
 - We're working on **Tungolino** ...
 
 ### 10.12.2022 (announcement Tungolino)
