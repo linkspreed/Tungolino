@@ -1,4 +1,7 @@
 ### 29.12.2022 (announcement Tungolino)
+-  **Tungolino** gets a big update today - we are going to launch v4.1.6. 😍
+
+### 29.12.2022 (announcement Tungolino)
 - The problem with the **Tungolino** logo has been successfully fixed!
 
 ### 29.12.2022 (announcement Tungolino)
