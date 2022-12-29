@@ -1,3 +1,40 @@
+# 29 December 
+
+[FIXED] - Solved the problem of camera request from the visitor in live broadcast.
+[FIXED] - Auto scroll issue in live chat stream
+[FIXED] - Redirect page issue for person not logged in to live stream
+[FIXED] - Sending Gif prom Profile page
+[FIXED] - The counter for images, videos and audio files.
+[FIXED] - Showing non-creators in the top 5 creator section.
+[FIXED] - Warning in User search
+[FIXED] - Product tab that remains open in the profile when Merketplace is closed
+[FIXED] - My Stories page that opens when status sharing by non-creators is disabled.
+[FIXED] - My subscriptions page updated
+[FIXED] - s3 video playback
+[FIXED] - administrator right click off command set to on
+[FIXED] - Warning when regulating subscription fees
+[FIXED] - Last content payments word mistake resolved.
+[FIXED] - Warning that appears when other comments are pressed.
+[FIXED] - Warning issue with reposted post.
+[FIXED] - Display of avatar according to the gender selected during registration.
+[FIXED] - Reported PHP bugs
+[FIXED] - Reported CSS bugs
+[ADDED] - Canceled subscriptions can now be viewed
+[ADDED] - Videos, images or other files are automatically deleted from the server after they are uploaded to storage.
+[ADDED] - Unpublished videos, images or other files are no longer counted.
+[ADDED] - Wasabi storage space added.
+[ADDED] - Wasabi on/off feature has been added to the administration panel.
+[ADDED] - Added the field for adding Wasabi keys.
+[ADDED] - MercadoPago payment system added.
+[ADDED] - MercadoPago payment system settings have been added to the administration panel.
+[ADDED] - Added sub-category feature for profile categories.
+[ADDED] - Added the ability to add new categories from the administration panel.
+[ADDED] - New category add/delete/edit feature has been added.
+[ADDED] - New subcategory add/delete/edit feature has been added.
+[ADDED] - Added the ability to make categories active and inactive.
+[ADDED] - Added option to turn off and on FFmpeg drawtext feature that reduces video loading speed.
+[ADDED] - The visitor will view the site in their own language if a language pack is included.
+
 # 10 December 
 
 [FIXED] - Reported Bugs
