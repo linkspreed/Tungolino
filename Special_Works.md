@@ -1,3 +1,6 @@
+### 07.04.2023 (announcement Tungolino)
+- 🚀 Exciting news! 🔧 We're currently working on #Tungolino and can't wait to share our progress with you all! 🙌 Stay tuned for updates. #tech #startup
+
 ### 29.12.2022 (announcement Tungolino)
 - https://github.com/linkspreed/Tungolino/blob/main/changelog.txt
 - The entire changelog is now available on Github.
