@@ -1,3 +1,6 @@
+### 02.07.2023 (announcement Tungolino)
+- 🌟 Exciting news! 🎉 We've just added Tungolino to our Subdomain system! 🚀🔗 Now when you visit https://tungolino.tk, you'll be redirected to https://tungolino.linkspreed.com. But don't worry, nothing changes for you. 🙌 You can continue using the platform with all your existing data as usual. 💻💪 Have you already explored the new URL? 😃 #TungolinoUpdate #SeamlessTransition
+
 ### 07.04.2023 (announcement Tungolino)
 - 🚀 Exciting news! 🔧 We're currently working on #Tungolino and can't wait to share our progress with you all! 🙌 Stay tuned for updates. #tech #startup
 
